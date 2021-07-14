@@ -7,9 +7,9 @@
 VRave를 통해 장애인에 대한 인식 개선 효과   
 * 더 자세히 살펴보기 : <https://drive.google.com/drive/u/1/folders/1zlXJU5r1D_uT-Xss4_AyOAVaCRzIpJcC>
 ***
-[팀원]   
-* 안성현
-* 권다현
-* 나예원
-* 김선우
+## 팀원👩🏻‍🤝‍👨🏼
+* 🧑‍💻 안성현
+* 👩‍💻 권다현
+* 👩‍💻 나예원
+* 🧑‍💻 김선우
  
