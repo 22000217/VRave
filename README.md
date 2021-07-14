@@ -1,4 +1,4 @@
-# 𝑽𝑅ave     
+# 𝑽𝑅ave🥽     
 ![WalkInVR_logo](https://user-images.githubusercontent.com/80326384/125542505-6b82885d-0f27-41d8-a784-d4659445b225.jpg)   
  ***
 ## 프로젝트 소개   
