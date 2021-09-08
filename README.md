@@ -16,7 +16,7 @@ MR을 이용한 장애인 가이드 어플리케이션
 ## 2. 배경 및 기대 효과
 현재 COVID-19으로 인해 사회가 어려워짐에 따라 장애인의 상황도 악화되었다. 이러한 상황은 장애인의 불편함을 넘어, 투표권과 같은 기본권의 보장 문제에도 영향을 미치고 있다. VRAVE 어플리케이션은 MR을 통하여 장애인이 사전에 특정 상황에 대한 경험을 할 수 있도록 제공함으로써 불편함을 최소화하고 인간이 마땅히 보장받아야 할 권리를 책임진다.
 
-![image](https://user-images.githubusercontent.com/61452538/132531258-3c33e25c-1a1a-4f7b-b338-452fa9e8314c.png)  &nbsp &nbsp  ![image](https://user-images.githubusercontent.com/61452538/132531288-269de367-350e-4ce4-a4cf-0767e8200c1d.png)
+![image](https://user-images.githubusercontent.com/61452538/132531258-3c33e25c-1a1a-4f7b-b338-452fa9e8314c.png)  " " " "  ![image](https://user-images.githubusercontent.com/61452538/132531288-269de367-350e-4ce4-a4cf-0767e8200c1d.png)
 
 
 ## 3. 어플리케이션 기능 소개
